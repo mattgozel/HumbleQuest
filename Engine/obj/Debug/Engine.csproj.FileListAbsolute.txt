@@ -4,3 +4,4 @@ C:\Users\repub\source\repos\Engine\obj\Debug\Engine.csprojAssemblyReference.cach
 C:\Users\repub\source\repos\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\repub\source\repos\Engine\obj\Debug\Engine.dll
 C:\Users\repub\source\repos\Engine\obj\Debug\Engine.pdb
+C:\Users\repub\source\repos\Engine\obj\Debug\Engine.g.resources
